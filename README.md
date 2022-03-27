@@ -12,4 +12,4 @@ The Lifelong Multi-Label (LML) image recognition builds an online class-incremen
 - randaugment
 - pandas~=1.1.3
 ## Training
-`python3 AGCN.py`
+`python3 GCN.py`
