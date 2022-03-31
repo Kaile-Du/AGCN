@@ -12,5 +12,7 @@ The Lifelong Multi-Label (LML) image recognition builds an online class-incremen
 - torch_optimizer
 - randaugment
 - pandas~=1.1.3
+## Dataset
+Split-COCO and Split-NUS
 ## Training and Testing
 `python3 GCN.py`
