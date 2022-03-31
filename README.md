@@ -16,3 +16,15 @@ The Lifelong Multi-Label (LML) image recognition builds an online class-incremen
 Split-COCO and Split-NUS
 ## Training and Testing
 `python3 GCN.py`
+## Citation
+`@article{du2022agcn,  
+
+  title={AGCN: Augmented Graph Convolutional Network for Lifelong Multi-label Image Recognition},  
+  
+  author={Du, Kaile and Lyu, Fan and Hu, Fuyuan and Li, Linyan and Feng, Wei and Xu, Fenglei and Fu, Qiming},  
+  
+  journal={arXiv preprint arXiv:2203.05534},   
+  
+  year={2022}.  
+  
+}`
